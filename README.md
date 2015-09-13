@@ -1,3 +1,13 @@
+## Assignment Instructions
+
+The Household Power Consumption dataset linked below has been filtered on the
+dates specified and uploaded as "HPC_Subset.csv", included in this repo. The
+"helperFuns.R" file is called from each of the 4 plot scripts to process this
+file and apply additional modifications to the data. 
+
+To generate a plot, simply run 'source("plot_.R")' in R/RStudio.
+
+
 ## Introduction
 
 This assignment uses data from
